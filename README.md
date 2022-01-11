@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shubhkarman Saharan
+- 👀 My interests are - ML, AI, Basketball, Anime ..
+- 🌱 I’m currently learning - Software engineering from Seneca college
+- 💞️ I’m looking to collaborate on ML
+- 📫 You can reach me by E-Mail - shubh.saharan@gmal.com
